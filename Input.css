@@ -1,0 +1,54 @@
+input{
+    border: 1px solid black;
+    border: none;
+    width: 300px;
+    margin-left: 300px;
+    color: blueviolet;
+    padding: 15px 27px 15px;
+    padding-inline: 4px;
+    border-radius: 5px;
+    border: none;
+    background-color: #FFFFFF;
+    /* box-shadow: 10px 10px 15px; */
+    outline: none;
+    
+}
+h2{
+    font-weight: bold;
+    /* text-shadow: 10px 10px 10px; */
+    color:#5E6282;
+    margin-left: 80px;
+    text-align: center;
+    margin-bottom: 50px;
+    /* background-image: url(./images/Rectangle\ 164.png); */
+}
+.gate{
+    /* border: 1px solid black; */
+    margin: 80px 90px 80px;
+    padding: 100px;
+    border-radius: 120px 24px 24px 24px;
+    background-color:#DFD7F9;
+    
+} 
+.door{
+    display: flex;
+    margin-left: 276px;
+    margin-top: 100px;
+    margin-bottom: -45px;
+    border:1px solid black;
+    padding: 14px 7px 15px;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    border: none;
+    color: rgb(164, 82, 241);
+    font-weight: bolder;
+    z-index: 4;
+}
+.pool{
+    margin-left: 1069px;
+    position: absolute;
+    top: 10%;
+    font-size: 40px;
+    color: #5231c9; 
+
+}
